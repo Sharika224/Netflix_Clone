@@ -1,2 +1,2 @@
-# Netflix_LANDING PAGE Clone
-This project is a Netflix clone, aiming to replicate the core functionalities of the popular streaming service. The application allows users to browse and search for movies and TV shows, view detailed information about each title, and stream content. This project is built using modern web technologies to provide a smooth and responsive user experience using HTML, CSS and JavaScript.
+# Netflix_Clone
+This project is a Netflix clone, aiming to replicate the core functionalities i.e. the landing page of the popular streaming service. In this project, I recreated the iconic Netflix landing page, focusing on capturing its modern aesthetic and user-friendly design. The goal was to deliver a seamless browsing experience that mirrors the original platform. This project is built using modern web technologies to provide a smooth and responsive user experience using HTML, CSS and JavaScript.
